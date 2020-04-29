@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588194957 source:c:\users\suprun\desktop\youngpro\project\ds_ip96_lr6.2_supruno\ds_lr6.2\ds_ip96_lr6.2_supruno.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
